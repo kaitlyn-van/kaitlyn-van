@@ -1,5 +1,5 @@
 ## Kaitlyn Van (she/her) 👋
 
 - Biomedical Engineering @ University of Waterloo
-- Machine Learning × Medicine × Embedded Systems
+- Machine Learning × Medicine
 - Email: kaitlyn.van@uwaterloo.ca
